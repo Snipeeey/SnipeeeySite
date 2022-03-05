@@ -1,7 +1,7 @@
 ---
-title: /
+title: /home
 layout: home
-permalink: /
+permalink: /home
 ---
 
 # Other Demo Pages
@@ -9,6 +9,6 @@ permalink: /
 [Dark](https://b2a3e8.github.io/jekyll-theme-console-demo-dark/)
 [Light](https://b2a3e8.github.io/jekyll-theme-console-demo-light/)
 
-# Welcome
+# 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕋𝕠 𝕊𝕟𝕚𝕡𝕖𝕖𝕖𝕪.𝕔𝕠𝕞
 
-Bla bla bla bla. Bla bla bla bla bla bla bla bla.
+Thanks for visiting Check out the tabs at the top of the page for information!
