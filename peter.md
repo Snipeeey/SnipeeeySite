@@ -1,20 +1,56 @@
 ---
-title: /peter
+title: /PC Specs
 layout: page
-permalink: /peter
+permalink: /PC Specs
 ---
 
-# Peter principle
+# Case
+lian li odyssey x, Silver
 
-The Peter principle is a concept in management developed by Laurence J. Peter, which observes that people in a hierarchy tend to rise to their "level of incompetence". In other words, an employee is promoted based on their success in previous jobs until they reach a level at which they are no longer competent, as skills in one job do not necessarily translate to another. The concept was elucidated in the 1969 book The Peter Principle by Peter and Raymond Hull.
+# Motherboard
+ROG MAXIMUS Z690 Extreme
 
-The Peter Principle was published by William Morrow and Company in 1969. Peter and Hull intended the book to be satire, but it became popular as it was seen to make a serious point about the shortcomings of how people are promoted within hierarchical organizations. Hull wrote the text, based on Peter's research.
+# Memory
 
-The Peter principle has been the subject of much later commentary and research.
+32gb G.skill 6000mghz DDR5, RGB, Silver
 
-## What does it mean?
+# Storage
 
-The Peter principle states that a person who is competent at their job will earn promotion to a more senior position which requires different skills. If the promoted person lacks the skills required for their new role, then they will be incompetent at their new level, and so they will not be promoted again. But if they are competent at their new role, then they will be promoted again, and they will continue to be promoted until they eventually reach a level at which they are incompetent. Being incompetent, they do not qualify to be promoted again, and so remain stuck at that final level for the rest of their career (termed "Final Placement" or "Peter's Plateau"). This outcome is inevitable, given enough time and assuming that there are enough positions in the hierarchy to promote competent employees to. The "Peter Principle" is therefore expressed as: "In a hierarchy every employee tends to rise to his level of incompetence." This leads to Peter's Corollary: "In time, every post tends to be occupied by an employee who is incompetent to carry out its duties." Hull calls the study of how hierarchies work "hierarchiology."
+2x Samsung 980 Pro 2TB Nvme
+1x Samsung 870 QVO 4TB SSD
 
-## References
-[wikipedia.org/wiki/Peter_principle](https://wikipedia.org/wiki/Peter_principle)
+# Graphics Card
+
+RTX 3090 Founders Edition GDDR6 24GB
+
+# CPU
+
+Intel  Core i9-12900k 5.20Ghz 16Core
+
+# Cooling
+
+iCUE H150i Elite LCD 
+12x iCUE QL 120 RGB Fans
+
+# PSU
+
+ROG 1200W Platinum w/ Oled Panel
+
+# Peripherals
+
+Razer Blackwidow x Chroma keyboard, Gunmetal
+Razer Ouriboros Wireless Mouse
+Astro A50 Wireless Headset
+Blue Yeti X w/ Arm and Radius mount
+Acer Predator XB272 27" 1920x1080 240hz Monitor
+StreamDeck
+Xbox 20th Anniversary Edition Controler w/ Matching Razer Charging Stand
+
+
+
+## About
+
+This was my First actual build instead of buying a Pre Built PC. I had a lot of fun building it and acquiring all the parts for my first build. I have always wanted to do an "Overkill build" so this is the reason behind the specs I chose, Hopfully the PC will last me a Long time.
+
+## PCPartsPicker List
+[PcPartsPicker](https://pcpartpicker.com/user/Snipeeey/saved/#view=Y9HvjX)
