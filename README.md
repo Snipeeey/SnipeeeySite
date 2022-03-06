@@ -1,2 +1,2 @@
-# Snipeeey.com
-This is Snipeeey's website.
+# 𝓢𝓷𝓲𝓹𝓮𝓮𝓮𝔂
+𝓦𝓮𝓵𝓬𝓸𝓶𝓮!
