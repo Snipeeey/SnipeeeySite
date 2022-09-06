@@ -17,7 +17,7 @@ permalink: /about/
 - 24
 - United States
 
-#Interests 
+# Interests 
 
 - Outdoors
 - Games
