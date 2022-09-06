@@ -13,6 +13,7 @@ permalink: /about/
 ╱╱╱╱╱╱╱╱┃┃╱╱╱╱╱╱╱╱╱╱╭━╯┃
 ╱╱╱╱╱╱╱╱╰╯╱╱╱╱╱╱╱╱╱╱╰━━╯
 
+# IRL Specs
 - Male
 - 24
 - United States
