@@ -6,7 +6,7 @@ permalink: /contact
 
 # Need to reach me?
 
-
+---
 
 <a href="https://discord.com/invite/snipeeey">Discord</a>
 
