@@ -4,13 +4,4 @@ title: /about
 permalink: /about/
 ---
 
-`    _____       _                            
-  / ____|     (_)                           
- | (___  _ __  _ _ __   ___  ___  ___ _   _ 
-  \___ \| '_ \| | '_ \ / _ \/ _ \/ _ \ | | |
-  ____) | | | | | |_) |  __/  __/  __/ |_| |
- |_____/|_| |_|_| .__/ \___|\___|\___|\__, |
-                | |                    __/ |
-                |_|                   |___/    `                                                                                                                                                                           
-
-<center><img src=”https://i.imgur.com/VAixbvw.mp4”></center>
+<a href="http://google.com.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)</a>
