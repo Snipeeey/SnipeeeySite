@@ -36,9 +36,12 @@ iCUE H150i Elite LCD
 
 ROG 1200W Platinum w/ Oled Panel
 
+# Keyboard
+
+Custom Geon works Frog build with Black Chery Pie Franken Switches
+
 # Peripherals
 
-Razer Blackwidow x Chroma keyboard, Gunmetal
 Razer Ouriboros Wireless Mouse
 Astro A50 Wireless Headset
 Blue Yeti X w/ Arm and Radius mount
