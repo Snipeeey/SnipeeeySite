@@ -6,12 +6,11 @@ permalink: /contact
 
 # Need to reach me?
 
-<form>
-  [Discord](https://discord.com/invite/snipeeey)
-  [Steam](https://steamcommunity.com/profiles/76561198073455537/)
-  [Twitter](https://twitter.com/SnipeeeyPC)
-  [Youtube](https://www.youtube.com/channel/UCODVhEMlXGa5XVjSVOK8mZw)
-  [Reddit](https://www.reddit.com/user/str8snipe9/)
-</form>
-
+'<a href="https://discord.com/invite/snipeeey">Discord</a>'
+'<a href="https://steamcommunity.com/profiles/76561198073455537/">Steam</a>'
+'<a href="https://www.youtube.com/channel/UCODVhEMlXGa5XVjSVOK8mZw">Youtube</a>'
+'<a href="https://www.reddit.com/user/str8snipe9/">Reddit</a>'
+'<a href="https://twitter.com/SnipeeeyPC">Twitter</a>'
+  
+ 
 <br /><br />(This is a demo site, the form doesn't work - If you want to implement a form on your site, you need an external service)
