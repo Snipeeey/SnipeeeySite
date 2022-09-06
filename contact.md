@@ -19,4 +19,4 @@ permalink: /contact
 <a href="https://twitter.com/SnipeeeyPC">Twitter</a>
   
  
-<br /><br />(This is a demo site, the form doesn't work - If you want to implement a form on your site, you need an external service)
+<br /><br />(Feel free to add / message me on any of the listed platforms)
