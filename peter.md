@@ -48,7 +48,19 @@ ROG 1200W Platinum w/ Oled Panel
 
 # Keyboard
 
-Custom Geon works Frog build with Black Chery Pie Franken Switches
+Layout: TKL ANSI F12
+
+Base: Geonworks Frog (Black)
+
+Plate: Aluminium Leaf Spring 1.5mm
+
+Switches: Black Cherry Pie Lubed with Krytox 205g0 and 105 + Spring Swapped with TX 18mm XL 67g
+
+Keycaps: EPBT Orange & White mixed with EPBT Curtain of Night
+
+Stabilizers: TX Stabilizers R3 1.2T
+
+PCB: Kopibeng XT-8 1.2MM Soldered
 
 # Peripherals
 
