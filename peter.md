@@ -64,10 +64,11 @@ PCB: Kopibeng XT-8 1.2MM Soldered
 
 # Peripherals
 
-Razer Ouriboros Wireless Mouse
-Astro A50 Wireless Headset
-Blue Yeti X w/ Arm and Radius mount
-Acer Predator XB272 27" 1920x1080 240hz Monitor
+corsair m65 RGB Ultra wireless
+Arctis nova pro wireless
+Shure SM7B X w/ Blue Arm and cloud booster
+1x 27" UltraGear™ OLED Gaming Monitor 2k QHD with 240Hz
+2x Acer Predator XB272 27" 1920x1080 240hz Monitor
 StreamDeck
 Xbox 20th Anniversary Edition Controler w/ Matching Razer Charging Stand
 
